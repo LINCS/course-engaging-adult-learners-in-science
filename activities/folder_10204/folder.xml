@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="59" moduleid="10204" modulename="folder" contextid="73478">
+  <folder id="59">
+    <name>508 Compliance Reports (hidden from students—do not remove)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <revision>6</revision>
+    <timemodified>1719444376</timemodified>
+    <display>0</display>
+    <showexpanded>0</showexpanded>
+    <showdownloadfolder>1</showdownloadfolder>
+    <forcedownload>0</forcedownload>
+  </folder>
+</activity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="342" moduleid="10193" modulename="resource" contextid="73467">
+  <resource id="342">
+    <name>Unit 4: Integrating the Scientific Practices in the Classroom</name>
+    <intro>&lt;p&gt;The default view opens the unit in this browser window. For optimal viewing, &lt;a href="$@PLUGINFILEBYCONTEXT*73467@$/mod_resource/content/4/content/index.html" target="_blank" title="$@PLUGINFILEBYCONTEXT*73467@$/mod_resource/content/4/content/index.html"&gt;open the unit in a new window.&lt;/a&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>5</revision>
+    <timemodified>1721844658</timemodified>
+  </resource>
+</activity>

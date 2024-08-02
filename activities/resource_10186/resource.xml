@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="339" moduleid="10186" modulename="resource" contextid="73460">
+  <resource id="339">
+    <name>Unit 1: Course Introduction</name>
+    <intro>The default view opens the unit in this browser window. For optimal viewing,&amp;nbsp;&lt;a href="$@PLUGINFILEBYCONTEXT*73460@$/mod_resource/content/8/content/index.html" target="_blank" title="$@PLUGINFILEBYCONTEXT*73460@$/mod_resource/content/8/content/index.html"&gt;open the unit in a new window&lt;/a&gt;.&lt;br&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>9</revision>
+    <timemodified>1721844079</timemodified>
+  </resource>
+</activity>

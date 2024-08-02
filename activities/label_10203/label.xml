@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2090" moduleid="10203" modulename="label" contextid="73477">
+  <label id="2090">
+    <name>Course References and Resources You can view or do...</name>
+    <intro>&lt;p&gt;&lt;strong&gt;Course References and Resources&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can view or download a list of resources here:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-06/References_and_Resources-508.pdf" target="_blank" title="References and Resources"&gt;References and Resources&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1718897362</timemodified>
+  </label>
+</activity>
